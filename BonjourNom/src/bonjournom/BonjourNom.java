@@ -24,7 +24,7 @@ public class BonjourNom {
         
         Person nader = new Person(args[0],args[1],Integer.parseInt(args[2]));
         System.out.println("Bonjour " + nader.getFirstName() +" "+ nader.getLastName() + " tu a " + nader.getAge());
-        
+        int add =5;
         System.out.println("Bonjour John Doe");
     }
     
