@@ -26,6 +26,7 @@ public class BonjourNom {
         System.out.println("Bonjour " + nader.getFirstName() +" "+ nader.getLastName() + " tu a " + nader.getAge());
         int add =5;
         System.out.println("Bonjour John Doe");
+        System.out.println("Larbi etais la");
     }
     
 }
